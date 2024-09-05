@@ -21,7 +21,7 @@ Vamos avaliar sua capacidade de entender a documentação do Nextjs e Shopify. F
 
 ## Dados importantes para conseguir integrar com a Shopify
 
-- Access Token da Shopify: --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--
+- Access Token da Shopify: --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-- ( Desconsidere os "--")
 - Nome da loja (your-development-store): test-rs-2024
 
 
